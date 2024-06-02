@@ -1,0 +1,23 @@
+{
+    "name": "social-weather",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "watch": "tsc -w",
+        "build": "tsc",
+        "start": "npx ts-node src/index.ts"
+    },
+    "dependencies": {
+        "add": "^2.0.6",
+        "aws-lambda": "^1.0.7",
+        "aws-sdk": "^2.1627.0",
+        "axios": "^1.7.2",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.4.5",
+        "yarn": "^1.22.22"
+    },
+    "devDependencies": {
+        "@types/aws-lambda": "^8.10.138"
+    }
+}

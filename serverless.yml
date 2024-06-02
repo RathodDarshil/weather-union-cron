@@ -1,0 +1,13 @@
+service: weather-union-scheduled-cron
+
+provider:
+    name: aws
+    runtime: nodejs20.x
+    stage: dev
+    region: ap-south-1
+
+functions:
+    rateHandler:
+        handler: dist/index.run
+        events:
+            - schedule: rate(15 minutes)

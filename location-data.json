@@ -1,0 +1,258 @@
+[
+    {
+        "cityName": "Bengaluru",
+        "localityName": "Banashankari",
+        "localityId": "ZWL003467",
+        "latitude": 12.936787,
+        "longitude": 77.556079,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "Rajarajeshwari Nagar",
+        "localityId": "ZWL004900",
+        "latitude": 12.918637,
+        "longitude": 77.505467,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "JP Nagar",
+        "localityId": "ZWL005530",
+        "latitude": 12.893441,
+        "longitude": 77.560436,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "Mahadevapura",
+        "localityId": "ZWL007643",
+        "latitude": 12.985322,
+        "longitude": 77.687578,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "Jalahalli",
+        "localityId": "ZWL003159",
+        "latitude": 13.031518,
+        "longitude": 77.530986,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "RT Nagar",
+        "localityId": "ZWL002736",
+        "latitude": 13.021267,
+        "longitude": 77.601234,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "KR Puram",
+        "localityId": "ZWL006369",
+        "latitude": 13.016987,
+        "longitude": 77.706819,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "Electronic City",
+        "localityId": "ZWL006274",
+        "latitude": 12.833101,
+        "longitude": 77.673182,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "Vijayanagar",
+        "localityId": "ZWL005375",
+        "latitude": 12.973219,
+        "longitude": 77.519303,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "Marathahalli",
+        "localityId": "ZWL008600",
+        "latitude": 12.955103,
+        "longitude": 77.696507,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "Sarjapur road",
+        "localityId": "ZWL002292",
+        "latitude": 12.900225,
+        "longitude": 77.697451,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "Brookefields",
+        "localityId": "ZWL004341",
+        "latitude": 12.96742,
+        "longitude": 77.717851,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "Whitefield",
+        "localityId": "ZWL007633",
+        "latitude": 12.975224,
+        "longitude": 77.740422,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "Nagavara",
+        "localityId": "ZWL009212",
+        "latitude": 13.04837,
+        "longitude": 77.625534,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "New BEL Road",
+        "localityId": "ZWL007628",
+        "latitude": 13.040495,
+        "longitude": 77.56942,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "Koramangala",
+        "localityId": "ZWL001156",
+        "latitude": 12.933756,
+        "longitude": 77.625825,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "Bannerghatta Road, Bangalore",
+        "localityId": "ZWL004924",
+        "latitude": 12.891397,
+        "longitude": 77.608176,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "Aavalahalli",
+        "localityId": "ZWL009229",
+        "latitude": 13.034488,
+        "longitude": 77.712241,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "BIAL Airport Road",
+        "localityId": "ZWL005576",
+        "latitude": 13.178996,
+        "longitude": 77.630005,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "Yelahanka",
+        "localityId": "ZWL006658",
+        "latitude": 13.111809,
+        "longitude": 77.589276,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "Kadugodi",
+        "localityId": "ZWL002882",
+        "latitude": 13.007511,
+        "longitude": 77.763209,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "Kammanahalli",
+        "localityId": "ZWL006631",
+        "latitude": 13.01605,
+        "longitude": 77.661735,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "HSR Layout",
+        "localityId": "ZWL001196",
+        "latitude": 12.908482,
+        "longitude": 77.641773,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "BTM Layout",
+        "localityId": "ZWL006600",
+        "latitude": 12.916931,
+        "longitude": 77.608897,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "Varthur",
+        "localityId": "ZWL006854",
+        "latitude": 12.936055,
+        "longitude": 77.723415,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "Indiranagar",
+        "localityId": "ZWL001273",
+        "latitude": 12.952636,
+        "longitude": 77.653059,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "Jayanagar",
+        "localityId": "ZWL008105",
+        "latitude": 12.944441,
+        "longitude": 77.581003,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "Sahakaranagar",
+        "localityId": "ZWL005206",
+        "latitude": 13.059918,
+        "longitude": 77.591344,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "Devanahalli, Bangalore",
+        "localityId": "ZWL008797",
+        "latitude": 13.258381,
+        "longitude": 77.716183,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "MG Road",
+        "localityId": "ZWL001962",
+        "latitude": 12.982689,
+        "longitude": 77.608075,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "Rajajinagar",
+        "localityId": "ZWL006844",
+        "latitude": 12.993217,
+        "longitude": 77.557903,
+        "device_type": "1 - Automated weather system"
+    },
+    {
+        "cityName": "Bengaluru",
+        "localityName": "Bellandur",
+        "localityId": "ZWL004164",
+        "latitude": 12.936225,
+        "longitude": 77.665059,
+        "device_type": "1 - Automated weather system"
+    }
+]
